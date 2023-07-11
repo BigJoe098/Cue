@@ -1,7 +1,7 @@
 #################### Importing Libraries #########################
 from PyQt5 import uic, QtWidgets
 from PyQt5 import QtGui,QtCore
-from PyQt5 import  QtWebEngineWidgets
+from PyQt5 import QtWebEngineWidgets
 from PyQt5.QtWidgets import QApplication, QDialog, QMainWindow
 import sqlite3
 from functools import partial
